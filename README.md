@@ -1,1 +1,0 @@
-# lightmp-server
